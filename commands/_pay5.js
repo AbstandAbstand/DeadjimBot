@@ -1,12 +1,12 @@
 /*CMD
-  command: /setup
+  command: /pay5
   help: 
   need_reply: 
   auto_retry_time: 
-  folder: setup
+  folder: 
   answer: 
   keyboard: 
   aliases: 
 CMD*/
 
-Libs.Coinbase.setup();
+Bot.runCommand("/pay 0.0005")
