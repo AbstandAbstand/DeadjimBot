@@ -1,8 +1,9 @@
 /*CMD
-  command: /oncreatepayment
+  command: /onCreatePayment
   help: 
   need_reply: 
   auto_retry_time: 
+  folder: ⏲ Temporary Wallet
   answer: 
   keyboard: 
   aliases: 

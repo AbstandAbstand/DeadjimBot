@@ -3,7 +3,7 @@
   help: 
   need_reply: 
   auto_retry_time: 
-  folder: 
+  folder: ⏲ Temporary Wallet
   answer: 
   keyboard: 
   aliases: 🏁 pay 0.0002 btc
