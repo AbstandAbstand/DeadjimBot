@@ -3,7 +3,7 @@
   help: 
   need_reply: 
   auto_retry_time: 
-  folder: 
+  folder: 𝕮𝖆𝖓𝖓𝖆𝖇𝖎𝖘 & 𝕳𝖆𝖘𝖍
   answer: 𝕮𝖆𝖓𝖓𝖆𝖇𝖎𝖘 & 𝕳𝖆𝖘𝖍
 
   <<KEYBOARD

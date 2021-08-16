@@ -3,8 +3,8 @@
   help: How i can format answer?
   need_reply: 
   auto_retry_time: 
-  folder: 
-  answer: You can use /text formating, insert /link, /image or use /inline text
+  folder: 𝔉𝔯𝔞𝔲𝔡
+  answer: 𝔉𝔯𝔞𝔲𝔡
   keyboard: 
   aliases: 𝔉𝔯𝔞𝔲𝔡
 CMD*/

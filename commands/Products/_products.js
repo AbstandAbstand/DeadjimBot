@@ -3,7 +3,7 @@
   help: Product Categories
   need_reply: 
   auto_retry_time: 
-  folder: 
+  folder: Products
   answer: This is bot's answer for example command
 
   <<KEYBOARD

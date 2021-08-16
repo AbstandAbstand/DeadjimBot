@@ -3,8 +3,8 @@
   help: How i can format answer?
   need_reply: 
   auto_retry_time: 
-  folder: 
-  answer: You can use /text formating, insert /link, /image or use /inline text
+  folder: ℭ𝔞𝔯𝔡𝔢𝔡 ℑ𝔱𝔢𝔪𝔰
+  answer: ℭ𝔞𝔯𝔡𝔢𝔡 ℑ𝔱𝔢𝔪𝔰
   keyboard: 
   aliases: ℭ𝔞𝔯𝔡𝔢𝔡 ℑ𝔱𝔢𝔪𝔰
 CMD*/
