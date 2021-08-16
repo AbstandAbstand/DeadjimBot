@@ -1,6 +1,6 @@
 {
   "bb_sync_version":"1.0",
   "name":"DeadjimBot",
-  "csv_url":null,
-  "git_remote":"git@github.com:AbstandAbstand/StoreBot.git"
+  "csv_url":"https://docs.google.com/spreadsheets/d/e/2PACX-1vRQMTySgeaBugsugtyRAQt8BX8Eocxi0BcZShQwVH9yJAtTt743gGuld1Oy9a5n7k-FuXVtARgMJoIC/pub?output=csv",
+  "git_remote":"git@github.com:AbstandAbstand/DeadjimBot.git"
 }

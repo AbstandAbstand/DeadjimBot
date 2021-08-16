@@ -1,12 +1,12 @@
 /*CMD
-  command: /pay5
+  command: calculate 2+2
   help: 
   need_reply: 
   auto_retry_time: 
-  folder: ⏲ Temporary Wallet
+  folder: 
   answer: 
   keyboard: 
   aliases: 
 CMD*/
 
-Bot.runCommand("/pay 0.0005")
+Bot.sendMessage(2+2)
